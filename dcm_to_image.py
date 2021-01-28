@@ -1,3 +1,5 @@
+# Simple program to read the DICOM (3D XRAY Files) and convert the objects in to JPED or PNG image
+
 import pydicom as dicom
 import os
 import cv2
